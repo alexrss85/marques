@@ -1,0 +1,20 @@
+h1{  
+    color: rgb(137, 45, 199);
+    text-align: center;
+}
+caption{
+    color: blue;
+}
+table, td, th {
+    border: 1px solid;
+}
+table {
+    width: 50%;
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+}
+th{
+    background-color: grey;
+    font-weight: bold;
+}

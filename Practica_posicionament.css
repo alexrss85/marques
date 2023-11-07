@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(0, 0, 0);
+    color: rgb(254, 254, 254);
+    position: fixed;
+    width: 100%;
+}
+nav{
+    color: rgb(56, 109, 155);
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    text-align: center;
+}
+.seccio{
+    background-color: rgba(209, 199, 199, 0.422);
+    margin: 50px 50px 0px 50px;
+    padding: 20px 50px 30px 50px ;
+    border-radius: 25px;
+}
+h2,p{
+    text-align: center;
+}
